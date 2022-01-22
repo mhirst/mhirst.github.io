@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Phantom Athletics 👻
 
 You can use the [editor on GitHub](https://github.com/mhirst/mhirst.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
